@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.obsidian/cache
+.trash/
+.DS_Store
